@@ -1,10 +1,9 @@
 # [Start Bootstrap - Clean Blog](https://startbootstrap.com/themes/clean-blog/)
 
-[Clean Blog](https://startbootstrap.com/themes/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
 ## Preview
 
-[![Clean Blog Preview](https://startbootstrap.com/assets/img/screenshots/themes/clean-blog.png)](https://startbootstrap.github.io/startbootstrap-clean-blog/)
+[!(https://startbootstrap.com/assets/img/screenshots/themes/clean-blog.png)](https://startbootstrap.github.io/startbootstrap-clean-blog/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
 
@@ -22,7 +21,7 @@ To begin using this template, choose one of the following options to get started
 
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/clean-blog/)
 * Install via npm: `npm i startbootstrap-clean-blog`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-clean-blog.git`
+*
 * [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-clean-blog)
 
 ## Usage
